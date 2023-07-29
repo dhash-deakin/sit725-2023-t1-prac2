@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2023-t1-prac2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhash-deakin/sit725-2023-t1-prac2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhash-deakin/sit725-2023-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/dhash-deakin/sit725-2023-t1-prac2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
